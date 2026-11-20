@@ -20,4 +20,4 @@ jobs:
       - uses: actions/upload-artifact@v7
         with:
           name: client-dist
-          path: react-axamples/dist/
+          path: react-examples/dist/
